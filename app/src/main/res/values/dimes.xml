@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="detail_view_padding">4dp</dimen>
+    <dimen name="detail_view_text_header_size">20sp</dimen>
+    <dimen name="detail_view_text_body_size">15sp</dimen>
+</resources>

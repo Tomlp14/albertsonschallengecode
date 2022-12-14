@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DetailView">
+        <item name="android:padding">
+            @dimen/detail_view_padding
+        </item>
+    </style>
+    <style name="DetailView.Header">
+        <item name="android:textSize">
+            @dimen/detail_view_text_header_size
+        </item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">5.0</item>
+    </style>
+    <style name="DetailView.Body">
+        <item name="fontStyle">italic</item>
+        <item name="android:textSize">
+            @dimen/detail_view_text_body_size
+        </item>
+    </style>
+
+
+</resources>
